@@ -730,7 +730,7 @@ p{
 
 @media(max-width: 767px){
 
-.services .content{
+.service .content{
 	grid-template-columns: repeat(2,1fr);
 }
 
